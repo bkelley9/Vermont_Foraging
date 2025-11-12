@@ -1,1 +1,25 @@
-scientific_name	season	edible_part	mission
+scientific_name,common_name,season,edible_part,mission_tag,mission
+Botrychium virginianum,Rattlesnake fern,late_fall,leafy_greens,Fresh and frosty!,"Rattlesnake ferns are one of the few ferns that remain edible through the growing season. In autumn, they turn reddish brown after being touched with frost, which sweetens them slightly. Find and compare fresh and frosty rattlesnake ferns"
+Matteucia struthiopteris,Ostrich fern,spring,shoot,Unfurling into spring,"Ostrich fern fiddleheads are commonly served in restuarants around Vermont, and have a brewery named after them. Find out what all the hype is about!"
+Rubus,Blackberry,summer,shoot,A Foragers Gem,Tufted shoots of the common blackberry are a specialized structure that occurs from cutting or browsing of the regular shoots in early summer. Get them before the deer do!
+Pinus,Pine,early_summer,pollen,Much ado about Pine,There has been a lot of buzz about pine pollen as a health supplement and a gourmet ingredient… Time to see for yourself: tap the male cones over a container and sift out any insects.
+Picea,Spruce,"spring, early_summer",shoots,Spruce up your salad,Spruce tips are reputed to be a tangy and aromatic addition to salads and smoothies!
+Carya ovata,Shagbark hickory,"fall, early_winter",steeped_beverage,Sam's favorite nut,"This is Sam Thayer's favorite nut, and it makes an exceptional hickory milk, which sounds delicious"
+Quercus rubra,Northern red oak,fall,"nut, flour",A squirrel's bounty,"Red oak has the most abundant and labor-efficient acorns for shelling. The squirrels love them, do you?"
+Corylus,Hazelnut,fall,steeped_beverage,Liquid gold (nutella),"Surely if Nutella is as good as it is, the nut milk must be worth trying"
+Prunus pensylvanica,Pin cherry,"mid_summer, late_summer",berry,Fire jam!,"This makes one of Sam's favorite jams, but it is too sour for many… Is that a challenge?"
+Amelanchier,Serviceberry,"late_spring, summer",berry,Racing the birds,Title food of Robin Wall Kimmer's new book. Join the ranks of those it services: try them fresh and dried.
+Robinia pseudoacacia,Black locust,"spring, early_summer",flower,Before the yellow spot fades,"These flowers are available in immense quantity and are ""maybe the best edible flower in the world"". Sounds worth trying. Eat them by the handful, in salads, soup, or ice cream."
+Gaultheria hispidula,Creeping snowberry,late_summer,berry,Snow on the mountain,Climb a green mountain for a taste of wild strawberry with a burst of crisp wintergreen
+Vaccinium macrocarpon,Large cranberry,fall,berry,A stroll through the bog,"Cranberries are associated with sphagnum moss, only found in highly acidic bogs. Gather some wild berries for a saucy treat, just don't become a bog body!"
+Vaccinium vitis-idaea,Lingonberry,"late_summer, fall, winter, early_spring",berry,Mansfield's treat,"It seems that this berry is only observed on and around Mount Mansfield. Don't take a ton home, but a treasure hunt is better than a hike."
+Elaegnus umbellata,Autumnberry,"late_summer, fall",berry,Invasives for prostate health,"Individual autumnberry bushes can produce several gallons of berries. They are also high in lycopene, a phytonutrient that may promote prostate health!"
+"Vaccinium corymbosum, Vaccinium angustifolium","Highbush blueberry, Lowbush blueberry","mid_summer, late_summer",berry,Searching high and low,Is the highbush blueberry better than it's domesticated partner? Search high and low to find out!
+Rhus typhina,Staghorn sumac,"summer, early_fall",steeped_beverage,Nature's lemonade stand,"Sumacade can range from inferior to excellent in quality. Get ripe, red berries before too much rain and taste them before beginning a brew"
+Ceanothus americanus,Large New Jersey tea,growing,steeped_beverage,A revolutionary cup,"One of the more potent and popular wild teas, it has been used since the revolutionary war."
+Zizania palustris,Wild rice,late_summer,seed/grain,A wild food icon,"Propel a small boat through the rice and knock seeds into the boat with a stick. Dry, rub, and winnow to discover an Indigenous staple"
+Bolboschoenus fluviatilis,Sweet bulb-rush,"late_spring, early_summer, mid_summer",tuber,The muskrats unsung delicacy,"Young corms have a sugarcane flavor, a secret the muskrats have hid well."
+Typha,Cattail,growing,lateral shoot,Supermarket of the swamp,"Many other parts of cattails are edible, but the lateral shoots are best, eaten raw or cooked. "
+Nasturtium officinale,Watercress,"late_winter, spring, summer, early_fall, mid_fall",leafy_greens,Invasive AND overpriced?,Wild watercress is the same stuff you find for an exorbitant amount of money in the store. Find some calcium rich streams for a steep discount!
+Trapa natans,Water-chesnut,late_summer,nut,Watch your feet!,"Also called water caltrops (!), water-chestnut is highly invasive, but also highly delicious! Two birds, one stone!"
+Nelumbo lutea,American lotus,"late_summer, fall",nut,,
